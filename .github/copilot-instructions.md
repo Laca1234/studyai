@@ -1,0 +1,1 @@
+This workspace contains a Next.js + Tailwind CSS frontend prototype for a premium AI study platform. Use the provided app pages and components to extend the study platform with AI interactions, analytics, and upload workflows.
